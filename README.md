@@ -11,6 +11,7 @@ HuCit is a light-weight ontology aimed at modelling citations in the Humanities.
 ## Related publications:
 
 - Romanello, M. & Pasin, M., 2017. [Using Linked Open Data to Bootstrap a Knowledge Base of Classical Texts](http://ceur-ws.org/Vol-2014/paper-01.pdf). In A. Adamou, E. Daga, & L. Isaksen, eds. *Second Workshop on Humanities in the Semantic Web (WHiSe)*.
+- Romanello, M., 2015. *From Index Locorum to Citation Network: an Approavch to the Automatic Extraction of Canonical Reeferences and its Applications to the Study of Classical Texts*. (PhD thesis). DOI: [11858/00-1780-0000-002A-4537-A](http://dx.doi.org/11858/00-1780-0000-002A-4537-A).  
 
 ## Presentations:
 
