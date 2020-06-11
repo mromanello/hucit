@@ -2,7 +2,7 @@
 
 HuCit is a light-weight ontology aimed at modelling citations in the Humanities.
 
-**URL**: http://purl.org/hucit/ontology ([LODE documentation](http://www.essepuntato.it/lode/owlapi/http://purl.org/net/hucit))
+**URL**: http://purl.org/hucit/ontology ([LODE documentation](https://w3id.org/lode/owlapi/http://purl.org/hucit/ontology))
 
 **Creators**: [Matteo Romanello](https://orcid.org/0000-0002-7406-6286), [Michele Pasin](https://orcid.org/0000-0001-8909-7766)
 
